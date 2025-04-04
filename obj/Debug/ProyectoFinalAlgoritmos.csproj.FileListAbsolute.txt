@@ -1,0 +1,10 @@
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\bin\Debug\ProyectoFinalAlgoritmos.exe.config
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\bin\Debug\ProyectoFinalAlgoritmos.exe
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\bin\Debug\ProyectoFinalAlgoritmos.pdb
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.csproj.AssemblyReference.cache
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.Form1.resources
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.Properties.Resources.resources
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.csproj.GenerateResource.cache
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.exe
+C:\Users\Valer\source\repos\ProyectoFinalAlgoritmos\ProyectoFinalAlgoritmos\obj\Debug\ProyectoFinalAlgoritmos.pdb
